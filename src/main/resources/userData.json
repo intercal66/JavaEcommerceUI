@@ -1,0 +1,15 @@
+{
+  "FirstName": "John",
+  "LastName": "Wick",
+  "Email": "babayaga1@example.com",
+  "Password": "0123456789",
+  "Company": "Continental",
+  "Address1": "City Address 1",
+  "Address2": "City Address 2",
+  "City": "Chisinau",
+  "PostCode": "MD-2000",
+  "Country": "United States",
+  "RegionState": "Oregon",
+  "DefaultPassword": "password",
+  "InvalidPhone": "00"
+}
